@@ -1,0 +1,19 @@
+div {
+  overflow: hidden;
+  background-color: green;
+  color: white;
+  padding: 20px 10px;
+  border-radius: 5%;
+}
+
+#bouteille{
+  background-color: blue;
+}
+
+#cannette{
+  background-color: purple;
+}
+
+#chips{
+  background-color: red;
+}
