@@ -1,6 +1,10 @@
 .header {
   overflow: hidden;
-  background-color: green;
+  text-align: center;
+  background-color: darkcyan;
   color: white;
   padding: 20px 10px;
+  border-style: double;
+  border-width: 4px;
+  text-shadow: 2px 2px black;
 }

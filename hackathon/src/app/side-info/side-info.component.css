@@ -1,9 +1,11 @@
 div {
   overflow: hidden;
-  background-color: green;
   color: white;
   padding: 20px 10px;
   border-radius: 5%;
+  border-style: double;
+  border-width: 4px;
+  text-shadow: 2px 2px black;
 }
 
 #bouteille{
